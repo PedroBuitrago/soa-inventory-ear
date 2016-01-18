@@ -5,9 +5,6 @@
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="soa-inventory-ejbclient.jar" deploy-path="/lib" handle="module:/resource/soa-inventory-ejbclient/soa-inventory-ejbclient">
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
         <dependent-module archiveName="soa-inventory-integration.war" deploy-path="/" handle="module:/resource/soa-inventory-integration/soa-inventory-integration">
             <dependent-object/>
             <dependency-type>uses</dependency-type>

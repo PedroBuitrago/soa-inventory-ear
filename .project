@@ -4,7 +4,6 @@
 	<comment></comment>
 	<projects>
 		<project>soa-inventory-ejb</project>
-		<project>soa-inventory-ejbclient</project>
 		<project>soa-inventory-integration</project>
 	</projects>
 	<buildSpec>
